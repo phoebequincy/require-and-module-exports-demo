@@ -1,4 +1,4 @@
-// import functions from functions.js here
+var {sayHello, add, subtract} = require('./functions')
 
 
 
